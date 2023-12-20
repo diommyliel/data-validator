@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "data-validator"
+name = "validator"
 version = "0.1.0"
 description = "A practice project, creating a simple data validation framework"
 authors = ["Your Name <you@example.com>"]
