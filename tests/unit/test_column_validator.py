@@ -1,6 +1,6 @@
 import polars as pl
 
-import validator.column_validator as f
+import validator.validation.column_validator as f  # type: ignore
 
 
 def test_has_null_true():

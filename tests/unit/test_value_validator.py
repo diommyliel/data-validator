@@ -1,6 +1,6 @@
 import polars as pl
 
-import validator.value_validator as f
+import validator.validation.value_validator as f  # type: ignore
 
 
 def test_is_greater_than():
